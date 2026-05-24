@@ -1,0 +1,10 @@
+{
+    "name": "easy-collision",
+    "description": "Simple tile collision helper for sprites",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "easyCollision.ts"
+    ]
+}
